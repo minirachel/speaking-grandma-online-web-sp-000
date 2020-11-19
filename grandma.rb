@@ -2,7 +2,9 @@
 def speak_to_grandma
   if all capitals
     puts "NO, NOT SINCE 1938"
-  else
+  elsif "I LOVE YOU GRANDMA"
+    puts "I LOVE YOU TOO PUMPKIN!"
+  elsif
     puts "HUH?! SPEAK UP, SONNY!"
 end
 
